@@ -12,7 +12,6 @@ C++ Implementation: The simulation is written in C++, providing efficient and sc
 Two-Bars Variation: Introduces a second bar to the El Farol problem, offering patrons an alternative venue choice.
 Agent-Based Modeling: Uses agent-based modeling techniques to simulate the decision-making process of individual patrons.
 Strategy Evaluation: Evaluates various strategies for attendance prediction and bar selection, allowing for the comparison of different decision-making approaches.
-Visualization: Provides visualization tools to analyze the simulation results, including crowd size dynamics and the effectiveness of different strategies.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
